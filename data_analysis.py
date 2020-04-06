@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 #####
-#Data from Stanford Open Policing project, interpretation from a lesson by DataCamp.com
+#Data from Stanford Open Policing project
 #####
 
 ####Importing Hartford Connecticut csv from desktop and saving as hc
